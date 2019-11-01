@@ -1,4 +1,0 @@
-# Fasher-Privacy-Policy
-========================
-
-dsakfjklsdjaflsdaklfjksal
