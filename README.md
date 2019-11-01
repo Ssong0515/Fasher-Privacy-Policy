@@ -13,6 +13,7 @@
 ### 2. Processing and Retention Period of Personal Information
 
 -The picture is not saved  
+
 -Converted face data and scores are not provided to third parties  
 
 
@@ -33,10 +34,10 @@
 
 ### 5. Destruction of personal information 'Fasher' destroys personal information without delay when the purpose of processing personal information is achieved. The procedures, deadlines and methods of destruction are as follows:
 
-Destruction procedure
+#### Destruction procedure
 The information entered by the user is transferred to a separate DB after the achievement of the purpose and stored for a period of time according to internal policies and other related laws or destroyed immediately. At this time, the personal information transferred to the DB will not be used for other purposes unless it is required by law.
 
--Destroyed
+#### Destroyed
 If the personal information of the user becomes unnecessary within 5 days of the end of the retention period when the retention period of the personal information has elapsed, and the personal information becomes unnecessary, such as achieving the purpose of processing the personal information, abolishing the service, or terminating the business, etc. The personal information will be destroyed within 5 days from the date when the processing is deemed unnecessary.
 
 
@@ -49,7 +50,7 @@ If the personal information of the user becomes unnecessary within 5 days of the
 
 -The information subject can contact the personal information protection manager for all personal information related inquiries, complaints, and remedy that occurred while using the service (or business) of 'Fasher'. 'Fasher' will respond promptly to the information subject's inquiries.
 
-Contact Person: Eunseok Song
+Contact Person: Eunseok Song  
 Email: 406605@naver.com
 
 
